@@ -11,4 +11,4 @@
 
 # Testing
 
-- docker-compose exec web pytest .
+- docker-compose exec web pytest 
